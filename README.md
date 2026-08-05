@@ -2,10 +2,6 @@
 
 An AI-powered nutrition coach. Log a meal, get a calorie estimate from a live web search, receive a healthy follow-up suggestion, and view an AI-generated image of the recommended dish — all through a simple Gradio interface.
 
-**Runs entirely on free APIs. No credit card required.**
-
----
-
 ## ✨ Features
 
 - **Web-search calorie lookup** — Uses live web grounding to fetch accurate calorie counts.
