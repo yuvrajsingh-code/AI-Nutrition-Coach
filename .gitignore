@@ -1,0 +1,36 @@
+# Environment
+.env
+.env.local
+.venv/
+venv/
+env/
+mistral_env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated content (keep the folder, ignore the files)
+generated_images/*
+!generated_images/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Gradio
+gradio_cached_examples/
+flagged/
